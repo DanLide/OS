@@ -1,0 +1,5 @@
+LIBRARY Semaphore.dll
+EXPORTS
+	MainFunc
+	CreateThreadsF
+	findMin
